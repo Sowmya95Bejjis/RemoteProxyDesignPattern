@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author SaiSuryaEdumudi
+ *
+ */
+module RemoteProxyDesignPattern {
+}
